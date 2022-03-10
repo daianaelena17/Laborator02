@@ -3,6 +3,7 @@ package ro.pub.systems.eim.lab02.activitylifecyclemonitor.general;
 public interface Constants {
 
     final public static String TAG                  = "activitylifecycle";
+    final public static String TAG_MONITOR          = "activitylifecyclemonitor";
 
     final public static String CREDENTIAL_FILE      = "credentials.xml";
     final public static String CREDENTIAL_TAG       = "credential";
